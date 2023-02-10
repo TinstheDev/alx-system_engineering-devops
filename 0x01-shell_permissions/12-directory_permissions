@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 571 dir_alx
+mkdir -n 571 dir_alx
